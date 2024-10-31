@@ -25,7 +25,7 @@ Users should be able to:
 - Basic js
 
 ### What I learned
-- How to fetch from an API and display
+- How to fetch from an API and display data
 - Repsonsive development
 
 ### Continued development
